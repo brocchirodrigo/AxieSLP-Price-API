@@ -1,4 +1,5 @@
-# template-node
-
-Template criado em 15/11/2021.
 # AxieSLP-Price-API
+
+## Resources
+
+ - Route /slp = Return Axie Infinity SLP price in real time value.
